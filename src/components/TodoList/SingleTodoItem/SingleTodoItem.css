@@ -1,0 +1,18 @@
+.single-todo{
+  
+  overflow: hidden;
+ 
+}
+.single-todo-item{
+  background:linear-gradient(to right, rgb(0, 0, 0), rgb(255, 0, 128));
+  height: 20vh;
+  
+  width: 80vh;
+  margin: 0px 420px;
+  
+ 
+}
+.selected{
+  background-color: red;
+
+}

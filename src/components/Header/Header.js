@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = ()=> {
     return (
         <div className="Header">
-            <h1>To DO APP</h1>
+            <h1>App todo</h1>
         </div>
     )
 }

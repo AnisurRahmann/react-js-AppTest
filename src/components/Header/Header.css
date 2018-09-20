@@ -1,7 +1,9 @@
 .Header{
-    background: black;
+    background: linear-gradient(to right, rgb(0, 0, 64), rgb(255, 255, 255));
+    overflow: hidden;
 
 }
 .Header h1{
-    color: wheat;
+    color:linear-gradient(to right, rgb(0, 0, 0), rgb(255, 255, 255));
+    text-transform: capitalize
 }

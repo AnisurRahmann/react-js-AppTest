@@ -1,0 +1,14 @@
+
+.todo-list{
+    overflow: hidden;
+    
+}
+.todo-list-header{
+    
+    border: 2px solid #f8c7a4;
+    display:inline-block;
+    width: 250px;
+    font-weight: 300;
+    height: 50px;
+    padding: 10px
+}
